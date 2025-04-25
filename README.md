@@ -1,8 +1,8 @@
 # Starter Web Repo
 
 ## Introduction
-
-This repository is for showing how Git and GitHub work.Learning GIT.More changes to readme file
+This repository is for showing how Git and GitHub work.Learning GIT.More changes to readme file.
+Some more important section added
 
 ## Purpose
 
