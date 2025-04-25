@@ -14,3 +14,6 @@ Sample section for deployment
 
 ## How to contribute
 Sample section for contribution to this project
+
+## Copyright section
+Copyright section
