@@ -13,7 +13,7 @@ Sample section for deployment
 
 
 ## How to contribute
-Sample section for contribution to this project
+Please fork this repository and issue Pull Request for review
 
 ## Copyright section
 Copyright section
