@@ -16,4 +16,4 @@ Sample section for deployment
 Please fork this repository and issue Pull Request for review
 
 ## Copyright section
-Copyright section
+Copyright section.All rights reserved
