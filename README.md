@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work.Learning GIT
+This repository is for showing how Git and GitHub work.Learning GIT.More changes to readme file
 
 ## Purpose
 
